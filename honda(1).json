@@ -1,0 +1,476 @@
+{
+    "brand": [
+        {
+            "Honda": [
+                {
+                    "Product": [
+                        {
+                            "Touring": [
+                                {
+                                    "GOLDWING 2020 (DCT)": {
+                                        "Engine type": "SC79E/Horizontally opposed 6 cylinder 4-stoke",
+                                        "Displacement": "1833cc",
+                                        "Bore x stroke": "73.0 x 73.0 mm",
+                                        "Compression ratio": "10.5:1",
+                                        "Maximum power": "90.0 hp @ 5,420 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "102.5 lb.-ft. @ 1,370 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Multi-plate Wet Clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "7-speed automatic DCT w/Walking Mode F/R",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "5.6 litres/100km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Touring/GW2020/apHondaBigBike-aprGoldwingColorChart.png",
+                                        "price": 1340000
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Adventure": [
+                                {
+                                    "CRF300 RALLY DIRT ADDICT EDITION": {
+                                        "Engine type": "Fuel injection system PGM-FI 4-stroke DOHC water-cooled",
+                                        "Displacement": "286.01cc",
+                                        "Bore x stroke": "76.0 x 63.047 mm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "31 hp @ 8500 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "19.3 lb.-ft. @ 7000 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet multi-plate clutch, stacked",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed MT",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "32.3 km/l",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/crf300lrallyy/Color-Lowres620x350px.jpg",
+                                        "price": 182900
+                                    }
+                                },
+                                {
+                                    "CRF300RALLY": {
+                                        "Engine type": "Fuel injection system PGM-FI 4-stroke DOHC water-cooled",
+                                        "Displacement": "286.01cc",
+                                        "Bore x stroke": "31 hp @ 8500 rpm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "19.3 lb.-ft. @ 7000 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "102.5 lb.-ft. @ 1,370 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet multi-plate clutch, stacked",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed MT",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "32.3 km/l",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/crf300lrallyy/Color_Chart_90_icon.jpg",
+                                        "price": 172200
+                                    }
+                                },
+                                {
+                                    "CRF300L": {
+                                        "Engine type": "Fuel injection system PGM-FI 4-stroke DOHC water-cooled",
+                                        "Displacement": "286.01cc",
+                                        "Bore x stroke": "31 hp @ 8500 rpm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "19.3 lb.-ft. @ 7000 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "102.5 lb.-ft. @ 1,370 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet multi-plate clutch, stacked",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed MT",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "32.3 km/l",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/crf300l/Color_45_icon.png",
+                                        "price": 145800
+                                    }
+                                },
+                                {
+                                    "CRF1100L AFRICA TWIN (MT)": {
+                                        "Engine type": "SD08E/SOHC Liquid-Cooled 4-Stroke 8-Valve Parallel Twin with 270° Crank and Uni-Cam",
+                                        "Displacement": "1084cc",
+                                        "Bore x stroke": "92.0 x 81.5 mm",
+                                        "Compression ratio": "10.1 : 1",
+                                        "Maximum power": "75 kW / 100.5 hp @ 7500 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "105 Nm / 77.4 ft-lb @ 6250 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Manual Clutch Wet Multiplate Type",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed MT",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "21.7 km/l",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/newafria/apHondaBigBike-marAfricaTwin2020colorChartblack.png",
+                                        "price": 559000
+                                    }
+                                },
+                                {
+                                    "CRF1100L AFRICA TWIN ADVENTURE SPORTS (DCT)": {
+                                        "Engine type": "SD08E/SOHC Liquid-Cooled 4-Stroke 8-Valve Parallel Twin with 270° Crank and Uni-Cam",
+                                        "Displacement": "1084cc",
+                                        "Bore x stroke": "92.0 x 81.5 mm",
+                                        "Compression ratio": "10.1 : 1",
+                                        "Maximum power": "75 kW / 100.5 hp @ 7500 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "105 Nm / 77.4 ft-lb @ 6250 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Automatic Clutch Wet Multiplate Type",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed Dual Clutch Transmission",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "21.8 km/lkm",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/newafria/apHondaBigBike-marAfricaTwin2020colorChartDCT.png",
+                                        "price": 699000
+                                    }
+                                },
+                                {
+                                    "NC750X (DCT)": {
+                                        "Engine type": "RC88E /Liquid-cooled parallel 2-cylinder",
+                                        "Displacement": "745cc",
+                                        "Bore x stroke": "77 x 80 mm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "54bhp (40.3kW) @ 6,250rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "50.15lb-ft (68Nm) @ 4,750rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet multiplate hydraulic 2-Clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed Dual Clutch Transmission",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "3.5L/100km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/NC750X_DCT/156335_New_Colours_for_2019.jpg",
+                                        "price": 351290
+                                    }
+                                },
+                                {
+                                    "X-ADV": {
+                                        "Engine type": "Liquid-cooled L2 SOHC",
+                                        "Displacement": "745cc",
+                                        "Bore x stroke": "77 x 80 mm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "43.1kW/6,750rpm(35kW/6,000rpm)",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "69Nm/4,750rpm(65/4,000rpm)",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet multiplate Hydraulic / Wet multiplate Hydraulic Dual clutch (DCT)",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "3.6L/100km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Adventure/160536_2019_Matt_Green_X-ADV.jpg",
+                                        "price": 405330
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Super Sport": [
+                                {
+                                    "ALL NEW CBR1000RR-R FIREBLADE SP": {
+                                        "Engine type": "SC82E/LiquidcooledDOHC Inline 4 cylinder",
+                                        "Displacement": "1000cc",
+                                        "Bore x stroke": "81.0 x 48.5 mm",
+                                        "Compression ratio": "13.2:1",
+                                        "Maximum power": "215 hp / 160 kW @ 14500",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "113 Nm / 83 lb-ft @ 12500",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "16l / 4.3 US gal",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/AllnewCBR1000RR-R/01_CBR1000_SupportWeb_color__1_-removebg-preview.png",
+                                        "price": 1119000
+                                    }
+                                },
+                                {
+                                    "ALL NEW CBR1000RR-R FIREBLADE": {
+                                        "Engine type": "SC82E/LiquidcooledDOHC Inline 4 cylinder",
+                                        "Displacement": "1000cc",
+                                        "Bore x stroke": "81.0 x 48.5 mm",
+                                        "Compression ratio": "13.2:1",
+                                        "Maximum power": "215 hp / 160 kW @ 14500",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "113 Nm / 83 lb-ft @ 12500",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "16l / 4.3 US gal",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/AllnewCBR1000RR-R/02_CBR1000_SupportWeb_color__1_-removebg-preview.png",
+                                        "price": 999000
+                                    }
+                                },
+                                {
+                                    "NEW CBR600RR": {
+                                        "Engine type": "PC40E/LiquidcooledDOHC Inline 4 cylinder",
+                                        "Displacement": "599cc",
+                                        "Bore x stroke": "67.0 x 42.5 mm",
+                                        "Compression ratio": "12.2:1",
+                                        "Maximum power": "75.0 kW (100.6 hp) @ 12,500 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "60.7 N⋅m (44.8 lb⋅ft) @ 10,600 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "6.84 L/100 km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/NewCBR600RR/600-color-chart-620x350-removebg-preview.png",
+                                        "price": 549000
+                                    }
+                                },
+                                {
+                                    "NEW CBR250RR": {
+                                        "Engine type": "Liquid-Cooled 4 Stroke PGM-Fi DOHC 4 Valve Parallel Twin Cylinder249",
+                                        "Displacement": "249cc",
+                                        "Bore x stroke": "62.0 X 41.3 mm",
+                                        "Compression ratio": "11.5 : 1",
+                                        "Maximum power": "26.5 PS @ 8500 rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "22.9 Nm @ 7000 rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "24 km/L",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/CBR250RR/620x350px_ColorChart_Black.png",
+                                        "price": 249000
+                                    }
+                                },
+                                {
+                                    "CBR1000RR": {
+                                        "Engine type": "SC77E/Liquid-cooled 4-stroke 16-valve DOHC Inline-4",
+                                        "Displacement": "1,000cc",
+                                        "Bore x stroke": "76 x 55 mm",
+                                        "Compression ratio": "13 : 01",
+                                        "Maximum power": "160 kW (210 hp) @ 14,500rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "113 N⋅m (83 lbf⋅ft) @ 12,500rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate with diaphragm spring with assist slipper",
+                                        "Ignition system": "Digital transistorized with electronic advance",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "6.11 L/100 km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/CBR1000RR_RED.png",
+                                        "price": 731190
+                                    }
+                                },
+                                {
+                                    "CBR1000RR SP": {
+                                        "Engine type": "SC77E/Liquid-cooled 4-stroke 16-valve DOHC Inline-4",
+                                        "Displacement": "1,000cc",
+                                        "Bore x stroke": "76 x 55 mm",
+                                        "Compression ratio": "13 : 01",
+                                        "Maximum power": "160 kW (210 hp) @ 14,500rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "113 N⋅m (83 lbf⋅ft) @ 12,500rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate with diaphragm spring with assist slipper",
+                                        "Ignition system": "Digital transistorized with electronic advance",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "6.11 L/100 km",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Super_Sport/CBR1000RR_SP/CBR1000RR_SP_Product-Color-Image-620-x-350-pxl.png",
+                                        "price": 885850
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Sport": [
+                                {
+                                    "CBR500R": {
+                                        "Engine type": "PC62E / Liquid-cooled Parallel Twin DOHC",
+                                        "Displacement": "471cc",
+                                        "Bore x stroke": "67.0 x 66.8 mm",
+                                        "Compression ratio": "10.7 : 1",
+                                        "Maximum power": "46.2bhp (35kW) @ 8600rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "31.7 lb-ft (43Nm) @ 6500rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Manual Clutch Wet Multiplate Type",
+                                        "Ignition system": "Full Digital transistorized",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "83mpg claimed / 61.4mpg tested",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Sport/CBR500R/01-Product-Color-Image-620-x-350-pxl.png",
+                                        "price": 219800
+                                    }
+                                },
+                                {
+                                    "CBR650R": {
+                                        "Engine type": "RH01E / Liquid-cooled inline 4-cylinder",
+                                        "Displacement": "649cc",
+                                        "Bore x stroke": "67.0 x 46 mm",
+                                        "Compression ratio": "11.6 : 1",
+                                        "Maximum power": "70kW @ 12,000rpm (95/1/EC)",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "64Nm @ 8,500rpm (95/1/EC)",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet Multiplate Clutch",
+                                        "Ignition system": "Full Digital transistorized",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed Manual Transmission",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "20.4km/litre",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/650Series/CBR650R/01-Product-Color-Image-620-x-350-pxl.png",
+                                        "price": 324260
+                                    }
+                                },
+                                {
+                                    "CB1100RS": {
+                                        "Engine type": "SC65E / Air and Oil-cooled inline 4 cylinders DOHC",
+                                        "Displacement": "1,140cc",
+                                        "Bore x stroke": "73.5 x 67.2 mm",
+                                        "Compression ratio": "9.5 : 1",
+                                        "Maximum power": "88.51 HP (64.6 kW)) @ 7500 RPM",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "91.00 Nm (9.3 kgf-m or 67.1 ft.lbs) @ 5500 RPM",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet Multiplate Clutch",
+                                        "Ignition system": "Digital transistorized",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "5.30 litres/100 km (18.9 km/l or 44.38 mpg)",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Sport/CB1100RS/CB1100RS_Glay_Product-Color-Image-620-x-350-pxl.png",
+                                        "price": 566670
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "Custom Bobber": [
+                                {
+                                    "REBEL 300": {
+                                        "Engine type": "Liquid - Cooled 4 - Stroke DOHC Single Cylinder",
+                                        "Displacement": "286cc",
+                                        "Bore x stroke": "76.0 x 63.1 mm",
+                                        "Compression ratio": "10.7:1",
+                                        "Maximum power": "-",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "-",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Manual Clutch Wet Multiplate Type",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "3.02 litres/100 km (33.1 km/l or 77.89 mpg)",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Custom_Bomber/Rebel300/Resize_Product_620-350__Navy_.png",
+                                        "price": 146830
+                                    }
+                                },
+                                {
+                                    "REBEL 500": {
+                                        "Engine type": "Liquid - Cooled 4 - Stroke DOHC Twin Cylinders",
+                                        "Displacement": "471cc",
+                                        "Bore x stroke": "67.0 × 66.8 mm",
+                                        "Compression ratio": "10.7:1",
+                                        "Maximum power": "4kW/8,500rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "43.3Nm/6,000rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Manual Clutch Wet Multiplate Type",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "27km/litre",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Custom_Bomber/2020/apHondaBigBike-febColorChartResizeBlue.png",
+                                        "price": 222780
+                                    }
+                                }
+                            ]
+                        },
+                        {
+                            "NEO SPORTS CAFE'": [
+                                {
+                                    "CB300R (2019)": {
+                                        "Engine type": "Liquid-cooled inline 4-cylinder",
+                                        "Displacement": "286cc",
+                                        "Bore x stroke": "76.0 x 63.0 mm",
+                                        "Compression ratio": "10.7:1",
+                                        "Maximum power": "23.1kw/8500rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "27.5Nm/7,500rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Manual Clutch Wet Multiplate Type",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "30.2km/litre",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Sport/CB300/Blue-Black-_BUB_.png",
+                                        "price": 151690
+                                    }
+                                },
+                                {
+                                    "CB650R": {
+                                        "Engine type": "RH01E / Liquid-cooled inline 4-cylinder",
+                                        "Displacement": "649cc",
+                                        "Bore x stroke": "67.0 x 46 mm",
+                                        "Compression ratio": "10.7:1",
+                                        "Maximum power": "70kW/12,000rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "64Nm/8,500rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet Multiplate Clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-speed Manual Transmission",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "20.4km/litre",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/650Series/CB650R/02-Product-Color-Image-620-x-350-pxl.png",
+                                        "price": 309060
+                                    }
+                                },
+                                {
+                                    "CB1000R": {
+                                        "Engine type": "SC80E/Liquid-cooled DOHC Inline 4 cylinder",
+                                        "Displacement": "998cc",
+                                        "Bore x stroke": "75.0 x 56.5 mm",
+                                        "Compression ratio": "11.6:1",
+                                        "Maximum power": "107kW @ 10,500rpm",
+                                        "Limited power version": "N/A",
+                                        "Maximum torque": "104Nm @ 8,250rpm",
+                                        "Lubrication system": "Wet sump",
+                                        "Clutch type": "Wet, multiplate clutch",
+                                        "Ignition system": "Fully Digital Transistorised",
+                                        "Starter system": "Electric",
+                                        "Transmission system": "6-Speed",
+                                        "Final transmission": "Chain",
+                                        "Fuel consumption": "16.7km/litre",
+                                        "img": "https://www.aphonda.co.th/hondabigbike/uploads/product_list_image_big/photos/shares/Product_list/Sport/cb1000r/195872_2020_HONDA_CB1000R.jpg",
+                                        "price": 598110
+                                    }
+                                }
+                            ]
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

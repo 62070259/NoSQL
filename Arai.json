@@ -1,0 +1,38 @@
+{
+    "brand": [{
+        "Arai": [{
+            "Product": [{
+                "ARAI – RX-7V PEDROSA SPIRIT GOLD": {
+                    "id": "600120193912",
+                    "information": "ARAI รุ่น Top ลายซามูไรสีทองอร่ามโดดเด่นแน่นอนเมื่ออยู่บนท้องถนน อารมณ์โหดๆสไตล์ญี่ปุ่น แฝงไปด้วยความสวยงามของลายบนหมวกใบนี้",
+                    "price": 25000,
+                    "img": "https://www.lovebigbike.com/wp-content/uploads/2019/06/ARAI_RX_7V_PEDROSA_SPIRIT_GOLD_1.jpg"
+                },
+                "Arai RX-7V Maze Red": {
+                    "id": "600120190645",
+                    "information": "หมวกกันน็อค ARAI RX-7V Maze Red โครงสร้างภายนอกทำจาก Super Fibre Belt โครงสร้างดูดซับแรงกระแทกมีความแข็งแรงสูงสุด แต่น้ำหนักเบา",
+                    "price": 22500,
+                    "img": "https://www.lovebigbike.com/wp-content/uploads/2019/06/Arai_RX_7V_Maze_Red_1.jpg"
+                },
+                "Arai RX-7V Maze Black Frost": {
+                    "id": "600120746303",
+                    "information": "หมวกกันน็อค ARAI RX-7V Maze Black Frost โครงสร้างภายนอกทำจาก Super Fibre Belt โครงสร้างดูดซับแรงกระแทกมีความแข็งแรงสูงสุด แต่น้ำหนักเบา",
+                    "price": 25000,
+                    "img": "https://www.lovebigbike.com/wp-content/uploads/2019/06/Arai_RX_7V_Maze_Black_Frost_1.jpg"
+                },
+                "ARAI RX-7V NAKAGAMI": {
+                    "id": "600120746298",
+                    "information": "ใครที่ชอบหมวกกันน็อคสีสดห้ามพลาด!! มาดูหมวกกันน็อคจาก Arai สินค้าคุณภาพ ราคาโดนใจ!!!!",
+                    "price": 25000,
+                    "img": "https://www.lovebigbike.com/wp-content/uploads/2018/02/NAKAGAMI_1.jpg"
+                },
+                "ARAI RX-7V HAYDEN WSBK17": {
+                    "id": "600120746110",
+                    "information": "มาแล้ววว!! หมวกเพื่อระลึกถึงการจากไปของ Nickey Hayden ลายสวย เก๋ สีตัดกันได้ดี วัสดุคุณภาพ",
+                    "price": 25000,
+                    "img": "https://www.lovebigbike.com/wp-content/uploads/2018/01/Arai-RX7V-HAYDEN-WSBK17_1.jpg"
+                }
+            }]
+        }]
+    }]
+}

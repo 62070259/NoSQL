@@ -1,0 +1,348 @@
+{
+    "brand": [{
+        "Ducati": [{
+            "Product": [{
+                "Diavel": [{
+                    "1260": {
+                        "price": "899,000",
+                        "Engine type": "Testastretta DVT 1262, L-Twin",
+                        "Displacement": "1262cc",
+                        "Bore X stroke": "106 x 71.5 mm",
+                        "Compression raio": "13.0 : 1",
+                        "Maximum power": "157 horsepower @ 9,250 rpm",
+                        "Maximum torque": "95 lb-ft (13.1 kgm, 129 Nm) @ 7,500 rpm",
+                        "Clutch Type": "Wet, multiplate",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.4 1/100km",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, elliptical throttle bodies with Ride-by-Wire, equivalent diameter 56 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/4yWBPFmBbWOgMIaOKUqC0c/63978914a1831de7cf15e4b9a68636e7/Diavel-1260-MY19-01-Grey-Data-Sheet-768x480.png"
+                    }
+                },{
+                    "1260 S": {
+                        "price": "999,000",
+                        "Engine type": "Testastretta DVT 1262 L-Twin",
+                        "Displacement": "1262cc",
+                        "Bore X stroke": "106 x 71.5 mm",
+                        "Compression raio": "13.0 : 1",
+                        "Maximum power": "157 horsepower @ 9,250 rpm",
+                        "Maximum torque": "95 lb-ft (13.1 kgm, 129 Nm) @ 7,500 rpm",
+                        "Clutch Type": "Slipper, self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed with Ducati Quick Shift up/down Evo (DQS)",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.4 1/100km",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, elliptical throttle bodies with Ride-by-Wire, equivalent diameter 56 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/6iIiChCivz5DXQgDehHCHN/cf94d9fdecf672c25e3bc702f352e372/Diavel-1260-S-Glossy-Matt-Black-MY20-Model-Preview-1050x650.png"
+                    }
+                }] 
+            },
+            {
+                "XDiavel": [{
+                    "XDiavel": {
+                        "price": "929,000",
+                        "Engine type": "Ducati Testastretta DVT (Desmodromic Variable Timing), L-Twin, 4 Desmodromically actuated valves per cylinder, Dual spark, Liquid cooled",
+                        "Displacement": "1262cc",
+                        "Bore X stroke": "106 x 71.5 mm",
+                        "Compression raio": "13:1",
+                        "Maximum power": "152 horsepower @ 9,500 rpm",
+                        "Maximum torque": "93 lb-ft (126 Nm) @ 5,000 rpm",
+                        "Clutch Type": "Slipper, self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Belt, Front sprocket Z28, Rear sprocket Z80",
+                        "Fuel consumption": "5.3 1/100km",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, cylindrical throttle bodies with Ride-by-Wire, diameter 53 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/nnvck2YmyGGC8CqkC6MIg/01622d449b3d50033db4d30e0ef83027/XDiavel-S-MY18-Dark-01-Model-Preview-1050x650.png"
+                        
+                    }
+                },{
+                    "XDiavel S": {
+                        "price": "1,058,000",
+                        "Engine type": "Ducati Testastretta DVT (Desmodromic Variable Timing), L-Twin, 4 Desmodromically actuated valves per cylinder, Dual spark, Liquid cooled",
+                        "Displacement": "1262cc",
+                        "Bore X stroke": "106 x 71.5 mm",
+                        "Compression raio": "13:1",
+                        "Maximum power": "",
+                        "Maximum torque": "",
+                        "Clutch Type": "",
+                        "Transmission system": "",
+                        "Final transmission": "6-Speed",
+                        "Fuel consumption": "5.3 1/100km",
+                        "Fuel system": "",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/3Yfuq84l6gKGA2mCCGWQae/65facadd88162495387a4ec2138a0fd7/XDiavel-S-MY18-White-01-Model-Preview-1050x650.png"
+                    }
+                }]
+            },
+            {
+                "Monster": [{
+                    "797": {
+                        "price": "399,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "803.00 ccm (49.00 cubic inches)",
+                        "Bore X stroke": "88.0 x 66.0 mm (3.5 x 2.6 inches)",
+                        "Compression raio": "11.0:1",
+                        "Maximum power": "73.00 HP (53.3 kW)) @ 8250 RPM",
+                        "Maximum torque": "67.00 Nm (6.8 kgf-m or 49.4 ft.lbs) @ 5750 RPM",
+                        "Clutch Type": "APTC wet multiplate clutch with mechanical control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.30 litres/100 km (18.9 km/l or 44.38 mpg)",
+                        "Fuel system": "Injection",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/4a8lgORWjekWyyQ6amkims/ac3d66f882e5a41f7bb13b1239ace652/Monster-797_MY18-Red-01-Data-Sheet-768x480.png"
+                    }
+                },{
+                    "821": {
+                        "price": "479,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "821.00 ccm (50.10 cubic inches)",
+                        "Bore X stroke": "88.0 x 67.5 mm (3.5 x 2.7 inches)",
+                        "Compression raio": "12.8:1",
+                        "Maximum power": "109.00 HP (79.6 kW)) @ 9250 RPM",
+                        "Maximum torque": "86.00 Nm (8.8 kgf-m or 63.4 ft.lbs) @ 7750 RPM",
+                        "Clutch Type": "APTC slipper and self-servo wet multiplate clutch with control cable",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.40 litres/100 km (18.5 km/l or 43.56 mpg)",
+                        "Fuel system": "Injection. 53mm throttle bodies with full Ride by Wire",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/3Tm1FcXCGseywq8MSwGGO/855f5550af8ef5caeecfb164f99749e7/Monster-821-MY18-Red-01-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "821 Stealth": {
+                        "price": "530,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "821.00 ccm (50.10 cubic inches)",
+                        "Bore X stroke": "88.0 x 67.5 mm (3.5 x 2.7 inches)",
+                        "Compression raio": "12.8:1",
+                        "Maximum power": "109.00 HP (79.6 kW)) @ 9250 RPM",
+                        "Maximum torque": "86.00 Nm (8.8 kgf-m or 63.4 ft.lbs) @ 7750 RPM",
+                        "Clutch Type": "APTC slipper and self-servo wet multiplate clutch with control cable",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.40 litres/100 km (18.5 km/l or 43.56 mpg)",
+                        "Fuel system": "Injection. 53mm throttle bodies with full Ride by Wire",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/21fxjmYb44g06YmA60g2Yc/e3108f21bcebebc79d271e42e3da3c9a/Monster-821-Stealth-MY19-01-Model-Preview-1050x650.png"
+                    }
+                }]
+            },
+            {
+                "Streetfighter": [{
+                    "V4": {
+                        "price": "899,000",
+                        "Engine type": "V4, four-stroke",
+                        "Displacement": "1103.00 ccm (67.31 cubic inches)",
+                        "Bore X stroke": "81.0 x 53.5 mm (3.2 x 2.1 inches)",
+                        "Compression raio": "14.0:1",
+                        "Maximum power": "208.00 HP (151.8 kW)) @ 12750 RPM",
+                        "Maximum torque": "122.00 Nm (12.4 kgf-m or 90.0 ft.lbs) @ 11500 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "6.90 litres/100 km (14.5 km/l or 34.09 mpg)",
+                        "Fuel system": "Injection. Electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/1ETjU0vK4VDLFXK5hn3q1x/a445ec4934fe5899cb7a8911f8569cab/Streetfighter-V4-Red-MY20-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "V4 S": {
+                        "price": "1,059,000",
+                        "Engine type": "V4, four-stroke",
+                        "Displacement": "1103.00 ccm (67.31 cubic inches)",
+                        "Bore X stroke": "81.0 x 53.5 mm (3.2 x 2.1 inches)",
+                        "Compression raio": "14.0:1",
+                        "Maximum power": "214.00 HP (156.2 kW)) @ 13000 RPM",
+                        "Maximum torque": "124.00 Nm (12.6 kgf-m or 91.5 ft.lbs) @ 10000 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "6.90 litres/100 km (14.5 km/l or 34.09 mpg)",
+                        "Fuel system": "Injection. Electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/6O8fuXVqJlV7sphiTCWAZF/05c4f34789cad2c9045873eaf132a300/Streetfighter-V4-S-Red-MY20-02-Model-Preview-1050x650.png"
+                    }
+                }]
+            },
+            {
+                "Multistrada": [{
+                    "950": {
+                        "price": "657,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "937.00 ccm (57.18 cubic inches)",
+                        "Bore X stroke": "94.0 x 67.5 mm (3.7 x 2.7 inches)",
+                        "Compression raio": "12.6:1",
+                        "Maximum power": "113.00 HP (82.5 kW)) @ 9000 RPM",
+                        "Maximum torque": "96.20 Nm (9.8 kgf-m or 71.0 ft.lbs) @ 7750 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5,3 1/100 km",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, cylindrical throttle bodies with Ride-by-Wire, diameter 53 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/2O0xZ0D6FOUoOYUU2MmQio/7df11b0b5e17b3345dff4b11f79c07e3/MTS-950-MY18-Red-01-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "950 S": {
+                        "price": "729,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "937.00 ccm (57.18 cubic inches)",
+                        "Bore X stroke": "94.0 x 67.5 mm (3.7 x 2.7 inches)",
+                        "Compression raio": "12.6:1",
+                        "Maximum power": "113.00 HP (82.5 kW)) @ 9000 RPM",
+                        "Maximum torque": "96.20 Nm (9.8 kgf-m or 71.0 ft.lbs) @ 7750 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "3.50 litres/100 km (28.6 km/l or 67.21 mpg)",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, cylindrical throttle bodies with Ride-by-Wire, diameter 53 m",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/4PpDP9LoYguAeS6Q0w4SC2/0e988778d5ee9b5b81a13b0946b0ce4b/Multistrada-950-S-MY19-Red-Cerchi-Fusi-01-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "1260": {
+                        "price": "1,099,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "1262.00 ccm (77.01 cubic inches)",
+                        "Bore X stroke": "106.0 x 71.5 mm (4.2 x 2.8 inches)",
+                        "Compression raio": "13.0:1",
+                        "Maximum power": "158.00 HP (115.3 kW)) @ 9500 RPM",
+                        "Maximum torque": "129.50 Nm (13.2 kgf-m or 95.5 ft.lbs) @ 7500 RPM",
+                        "Clutch Type": "Light action, wet, multiplate slipper clutch with hydraulic control. Self-servo action on drive, slipper action on over-run",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.20 litres/100 km (19.2 km/l or 45.23 mpg)",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, elliptical throttle bodies with Ride-by-Wire, equivalent diameter 56 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/3dn5jmIa8g8ec2iKkWgEge/e52835f6deacdf0dc9b2c1bc29db8320/Multistrada-1260-MY18-01-Red-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "1260 S": {
+                        "price": "1,149,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "1262.00 ccm (77.01 cubic inches)",
+                        "Bore X stroke": "106.0 x 71.5 mm (4.2 x 2.8 inches)",
+                        "Compression raio": "13.0:1",
+                        "Maximum power": "158.00 HP (115.3 kW)) @ 9500 RPM",
+                        "Maximum torque": "129.50 Nm (13.2 kgf-m or 95.5 ft.lbs) @ 7500 RPM",
+                        "Clutch Type": "Light action, wet, multiplate slipper clutch with hydraulic control. Self-servo action on drive, slipper action on over-run",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.20 litres/100 km (19.2 km/l or 45.23 mpg)",
+                        "Fuel system": "Injection. Bosch electronic fuel injection system, elliptical throttle bodies with Ride-by-Wire, equivalent diameter 56 mm",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/253SmqMskcGqcya0OAuYG2/3e45d0cace3447cf92b770402cc13642/Multistrada-1260-S-MY18-01-Volcano-Grey-Model-Preview-1050x650.png"
+                    }
+                }]
+            },
+            {
+               "Panigale": [{
+                   "V2": {
+                        "price": "799,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "955.00 ccm (58.27 cubic inches)",
+                        "Bore X stroke": "100.0 x 60.8 mm (3.9 x 2.4 inches)",
+                        "Compression raio": "12.5:1",
+                        "Maximum power": "155.00 HP (113.1 kW)) @ 10750 RPM",
+                        "Maximum torque": "104.00 Nm (10.6 kgf-m or 76.7 ft.lbs) @ 9000 RPM",
+                        "Clutch Type": "Oil bathed",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.60 litres/100 km (17.9 km/l or 42.00 mpg)",
+                        "Fuel system": "Injection. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/yy2pA1nP1fikPE6zuXfeM/88f85d4e36dd5dfa604d9b0267b5bc56/Panigale-V2-WH-01-model-preview-1050x650.png"
+                   }
+               },{
+                   "V4": {
+                        "price": "999,000",
+                        "Engine type": "V4, four-stroke",
+                        "Displacement": "1103.00 ccm (67.31 cubic inches)",
+                        "Bore X stroke": "81.0 x 53.5 mm (3.2 x 2.1 inches)",
+                        "Compression raio": "14.0:1",
+                        "Maximum power": "214.00 HP (156.2 kW)) @ 13000 RPM",
+                        "Maximum torque": "124.00 Nm (12.6 kgf-m or 91.5 ft.lbs) @ 10000 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "6.90 litres/100 km (14.5 km/l or 34.09 mpg)",
+                        "Fuel system": "Injection. Electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/D9I2R8gPHkQrQhkGhJJFh/e2005f219da76fcefe4d3d6947e77139/Panigale-V4-MY20-Model-Preview-1050x650.png"
+                   }
+               },{
+                   "V4 S": {
+                        "price": "1,249,000",
+                        "Engine type": "V4, four-stroke",
+                        "Displacement": "1103.00 ccm (67.31 cubic inches)",
+                        "Bore X stroke": "81.0 x 53.5 mm (3.2 x 2.1 inches)",
+                        "Compression raio": "14.0:1",
+                        "Maximum power": "208.00 HP (151.8 kW)) @ 12750 RPM",
+                        "Maximum torque": "123.00 Nm (12.5 kgf-m or 90.7 ft.lbs) @ 11500 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "6,9 1/100 - CO2 165 g/km",
+                        "Fuel system": "Injection. Electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/6zbDHr2qNR5K4rrnSOv3sS/31ccac888bb7e2142c0342a021e3cc9d/Panigale-V4-S-MY20-Model-Preview-1050x650.png"
+                   }
+               },{
+                   "V4 R": {
+                        "price": "2,990,000",
+                        "Engine type": "V4, four-stroke",
+                        "Displacement": "998.00 ccm (60.90 cubic inches)",
+                        "Bore X stroke": "81.0 x 48.4 mm (3.2 x 1.9 inches)",
+                        "Compression raio": "14.0:1",
+                        "Maximum power": "221.00 HP (161.3 kW)) @ 11500 RPM",
+                        "Maximum torque": "112.00 Nm (11.4 kgf-m or 82.6 ft.lbs) @ 11500 RPM",
+                        "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "7.30 litres/100 km (13.7 km/l or 32.22 mpg) ",
+                        "Fuel system": "Injection. Electronic fuel injection system. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/SC1kfXyuyc2i0muMugeG/387982606ab7efa495c8039fe5e5396e/Panigale-V4-R-MY19-Red-01-Model-Preview-1050x650.png"
+                   }
+               },{
+                   "959": {
+                    "price": "749,000",
+                    "Engine type": "V2, four-stroke",
+                    "Displacement": "955.00 ccm (58.27 cubic inches)",
+                    "Bore X stroke": "100.0 x 60.8 mm (3.9 x 2.4 inches)",
+                    "Compression raio": "12.5:1",
+                    "Maximum power": "150.00 HP (109.5 kW)) @ 10500 RPM",
+                    "Maximum torque": "102.00 Nm (10.4 kgf-m or 75.2 ft.lbs) @ 9000 RPM",
+                    "Clutch Type": "Slipper and self-servo wet multiplate clutch with hydraulic control",
+                    "Transmission system": "6-speed",
+                    "Final transmission": "Chain",
+                    "Fuel consumption": "5.60 litres/100 km (17.9 km/l or 42.00 mpg)",
+                    "Fuel system": "Injection. Twin injectors per cylinder. Full ride-by-wire elliptical throttle bodies.",
+                    "img": "https://images.ctfassets.net/x7j9qwvpvr5s/5UnAGdEXwAUCoYuug2SuMI/2f7ba20a96af9f830406ef848cce7e4a/Panigale-959-MY18-Red-01-Model-Preview-1050x650.png"
+                   }
+               }] 
+            },
+            {
+                "SuperSport": [{
+                    "SuperSport": {
+                        "price": "559,000",
+                        "Engine type": "V2, four-stroke",
+                        "Displacement": "937.00 ccm (57.18 cubic inches",
+                        "Bore X stroke": "94.0 x 67.5 mm (3.7 x 2.7 inches)",
+                        "Compression raio": "12.6:1",
+                        "Maximum power": "110.00 HP (80.3 kW)) @ 9000 RPM",
+                        "Maximum torque": "93.00 Nm (9.5 kgf-m or 68.6 ft.lbs) @ 6500 RPM",
+                        "Clutch Type": "Wet multiplate clutch mechanically operated, self-servo action on drive, slipper action on over-run",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5,9 1/100 km",
+                        "Fuel system": "Injection. Electronic fuel injection system, 53 mm throttle bodies with full Ride-by-Wire",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/1suAUVTnCYa62K2UQKUWIc/b8a1edd74f74e0b1ebd99ef35ad296ec/Supersport-MY18-Red-01-Model-Preview-1050x650.png"
+                    }
+                },{
+                    "SuperSport S": {
+                        "price": "559,000",
+                        "Engine type": "V2, four-stroke ",
+                        "Displacement": "937.00 ccm (57.18 cubic inches)",
+                        "Bore X stroke": "94.0 x 67.5 mm (3.7 x 2.7 inches)",
+                        "Compression raio": "12.6:1 ",
+                        "Maximum power": "110.00 HP (80.3 kW)) @ 9000 RPM ",
+                        "Maximum torque": "93.00 Nm (9.5 kgf-m or 68.6 ft.lbs) @ 6500 RPM",
+                        "Clutch Type": "Wet multiplate clutch mechanically operated, self-servo action on drive, slipper action on over-run",
+                        "Transmission system": "6-speed",
+                        "Final transmission": "Chain",
+                        "Fuel consumption": "5.90 litres/100 km (16.9 km/l or 39.87 mpg)",
+                        "Fuel system": "Injection. Electronic fuel injection system, 53 mm throttle bodies with full Ride-by-Wire",
+                        "img": "https://images.ctfassets.net/x7j9qwvpvr5s/1in9bXA202OEUcosA6cqes/0b9b69c359bb487fbd72c434469fad87/Supersport-S-MY18-Red-01-Model-Preview-1050x650.png"
+                    }
+                }]
+            }]
+        }]
+    }]
+}
